@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Zubair
+👋 Hi, I'm Zubair
 
 🧠 Skills: Problem solving, Electric circuit design, MS Office, MATLAB, C & C++ programming, Python, Oracle, SQL, Computer vision, Machine learning, Tkinter, OpenCV.
 
