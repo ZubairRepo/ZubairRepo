@@ -8,7 +8,6 @@
 
 💼 I'm open to collaboration on projects related to electric circuit design, programming, and machine learning.
 
-📫 You can reach me through [muhamadzubair2000@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-zubair-220905230/).
 
 
 <!---
